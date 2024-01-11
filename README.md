@@ -20,4 +20,11 @@ For Trying out the Model predictions.
 Step 2:- Hover to the single input Cell , now choose the input's for different Skill's #Note:- Yes=1 and No=0
 ![image](https://github.com/sandeshlavshetty/designation-predictor./assets/138968398/06f175f1-4a34-4b25-aec3-b2ca36f07458)
 Step 3:- Now Run the cells uptil the prediction cell
-Thank-You!!!
+
+Thank-You!!! 😊😊😊😊 
+
+By Sandesh Lvshetty.
+
+student at..
+
+Indian Institute of Information and Technology,Nagpur
