@@ -1,6 +1,11 @@
 # Designation-predictor.
 A Designation Predictor using Logistic Regression Created a ML model.
 
+Demo Vedio:- 
+
+
+Uploading logistic-reg-jobsuggestion.mp4…
+
 
 Data >>
 Here I have uploaded the data which I have preproceesd and cleaned before using .
