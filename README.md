@@ -5,7 +5,7 @@ A Designation Predictor using Logistic Regression Created a ML model.
 Data >>
 Here I have uploaded the data which I have preproceesd and cleaned before using .
 ![image](https://github.com/sandeshlavshetty/designation-predictor./assets/138968398/822e4567-d654-4ce9-989a-c7e81e81cb74)
-The things Ihave did > 
+The things Ihave did For Raw-Data > 
                       1) Dropping null values and NaN things.
 
                       2) Did Exploratory Analysis using Matplotlib, seaborn and figure out the requirements .
