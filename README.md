@@ -4,7 +4,9 @@ A Designation Predictor using Logistic Regression Created a ML model.
 Demo Vedio:- 
 
 
-Uploading logistic-reg-jobsuggestion.mp4…
+
+https://github.com/sandeshlavshetty/designation-predictor./assets/138968398/04b47aa4-b4e6-4685-8e36-d3f8e29ad15d
+
 
 
 Data >>
